@@ -1,6 +1,6 @@
 
   services:
   - type: web
-    name: tokyo-pr0
+    name: tokyo-pr0xy-2
     env: docker
     plan: free
